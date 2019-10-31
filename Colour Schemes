@@ -1,0 +1,75 @@
+{
+  "name": "AFC Header",
+  "component": false,
+  "license_url": null,
+  "about_url": null,
+  "authors": null,
+  "theme_version": null,
+  "minimum_discourse_version": null,
+  "maximum_discourse_version": null,
+  "assets": {
+  },
+  "color_schemes": {
+    "Yellow and White Colour Scheme": {
+      "primary": "222222",
+      "secondary": "ffffff",
+      "tertiary": "0088cc",
+      "quaternary": "ff9a7f",
+      "header_background": "FFFFCB",
+      "header_primary": "333333",
+      "highlight": "63a3cd",
+      "danger": "e45735",
+      "success": "009900",
+      "love": "fa6c8d"
+    },
+    "PFG": {
+      "primary": "f4f4f4",
+      "secondary": "222222",
+      "tertiary": "0088cc",
+      "quaternary": "e45735",
+      "header_background": "fa9822",
+      "header_primary": "f4f4f4",
+      "highlight": "63a3cd",
+      "danger": "e45735",
+      "success": "009900",
+      "love": "fa6c8d"
+    },
+    "Black and White Colour Scheme ": {
+      "primary": "f4f4f4",
+      "secondary": "222222",
+      "tertiary": "0088cc",
+      "quaternary": "e45735",
+      "header_background": "ffffff",
+      "header_primary": "333333",
+      "highlight": "63a3cd",
+      "danger": "e45735",
+      "success": "009900",
+      "love": "fa6c8d"
+    },
+    "Blue Colour Scheme": {
+      "primary": "f4f4f4",
+      "secondary": "222222",
+      "tertiary": "ffd84d",
+      "quaternary": "e45735",
+      "header_background": "63a3cd",
+      "header_primary": "333333",
+      "highlight": "00ceff",
+      "danger": "e45735",
+      "success": "009900",
+      "love": "fa6c8d"
+    },
+    "Black and White 2 Color Scheme": {
+      "primary": "222222",
+      "secondary": "f4f4f4",
+      "tertiary": "0088cc",
+      "quaternary": "e45735",
+      "header_background": "222222",
+      "header_primary": "f4f4f4",
+      "highlight": "ffff4d",
+      "danger": "e45735",
+      "success": "009900",
+      "love": "fa6c8d"
+    }
+  },
+  "learn_more": "https://meta.discourse.org/t/beginners-guide-to-using-discourse-themes/91966"
+}
